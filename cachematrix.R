@@ -75,7 +75,7 @@ cacheSolve <- function(x, ...)
         Inverse
         
 }
-
+s
 # Function that calculates the inverse in this case of passed data matrix
 solve <-function(x,...) {
         1/x
